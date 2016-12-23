@@ -1,0 +1,9 @@
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\bin\Debug\CountChar.exe.config
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\bin\Debug\CountChar.exe
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\bin\Debug\CountChar.pdb
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\obj\Debug\CountChar.csprojResolveAssemblyReference.cache
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\obj\Debug\CountChar.Form1.resources
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\obj\Debug\CountChar.Properties.Resources.resources
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\obj\Debug\CountChar.csproj.GenerateResource.Cache
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\obj\Debug\CountChar.exe
+C:\Users\cs12086\Desktop\プログラミング\GitLocal\CountChar\CountChar\obj\Debug\CountChar.pdb
