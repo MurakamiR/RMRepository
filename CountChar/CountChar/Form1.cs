@@ -19,7 +19,7 @@ namespace CountChar
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.label1.Text = "文字数は  "+this.textBox1.TextLength.ToString()+"  です";
         }
     }
 }
